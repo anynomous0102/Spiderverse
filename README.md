@@ -1,2 +1,2 @@
 # Spiderverse
-This was my first websiter i have ever build 
+This was my first website i have ever build 
